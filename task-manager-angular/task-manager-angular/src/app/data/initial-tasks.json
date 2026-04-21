@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Ler capítulo 3 de Algoritmos",
+    "due": "2026-04-23",
+    "level": "high",
+    "desc": "Priorizar exercícios 3.1-3.5",
+    "status": "todo"
+  },
+  {
+    "id": "seed-2",
+    "title": "Resolver lista de TS",
+    "due": "2026-04-26",
+    "level": "medium",
+    "desc": "Atenção a generics",
+    "status": "doing"
+  },
+  {
+    "id": "seed-3",
+    "title": "Revisão rápida: HTML/CSS",
+    "due": "2026-05-01",
+    "level": "low",
+    "desc": "30 minutos",
+    "status": "done"
+  }
+]

@@ -1,3 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import 'tailwindcss';
+
+/* Small helper for colored proximity dot */
+.dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+  display: inline-block;
+}
